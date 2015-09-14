@@ -1,6 +1,6 @@
 # Let BC get to know ya better :)
 
-This project is to help newbies learn more about git and pull requests.
+This project is to help newbies learn more about git and pull requests. Follow the steps below.
 
 ## Requirements
 All you need is a github account. To sign up, go to: https://github.com/join
