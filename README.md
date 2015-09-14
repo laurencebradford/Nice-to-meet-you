@@ -1,4 +1,4 @@
-# Let me get to know ya better :)
+# Let BC get to know ya better :)
 
 This project is to help newbies learn more about git and pull requests.
 
